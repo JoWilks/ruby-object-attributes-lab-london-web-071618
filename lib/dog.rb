@@ -5,7 +5,7 @@ class Dog
   end
   
   def name=get_name
-    @name = get_name
+    @name= get_name
   end
 
   def name
@@ -13,7 +13,7 @@ class Dog
   end  
   
   def breed=get_breed
-    @breed = get_breed
+    @breed= get_breed
   end
 
   def breed
